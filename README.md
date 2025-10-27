@@ -12,4 +12,4 @@ This project serves as:
 - A reference for future projects and cloud administration tasks.
 - Very much a WIP... excuse the mess :)
 
-CC
+CC ☁️
